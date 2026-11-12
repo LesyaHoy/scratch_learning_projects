@@ -24,7 +24,9 @@ Each project folder holds the `.sb3` file, a preview image, and the SVG assets, 
 
 | # | Project | Concepts | Post |
 |---|---------|----------|------|
-| 01 | _Project name_ | e.g. motion, loops, events | [Read](https://YOUR-SUBSTACK.substack.com) |
+| 01 | [Rock Paper Scissors](projects/01-rock-paper-scissors) | variables, random numbers, if/else, comparison operators, machine learning with Teachable Machine (webcam) | [Read](https://ai4kids.substack.com) |
+
+> **Note:** Rock Paper Scissors uses the **Teachable Machine** extension to recognise your hand gesture through the webcam. That extension isn't part of standard Scratch, so open this project in a Scratch version that includes it (for example [stretch3.github.io](https://stretch3.github.io/)).
 
 ## How to open a project
 
